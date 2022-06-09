@@ -24,7 +24,7 @@ void addEdge(int u, int v, int w)
 	adjMat[v][u] = w;
 }
 
-// mencetak matriks
+
 void displayMat(int v)
 {
     
